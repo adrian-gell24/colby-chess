@@ -5,7 +5,7 @@ html {
 
 body{
     background-color: #2F3035;
-    background-image: url(images/background-adare-restaurant.jpg);
+    /* background-image: url(images/background-adare-restaurant.jpg); */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -33,7 +33,7 @@ nav {
 main {
     height: 400px;
     text-align: center;
-    padding-top: 80px;
+    padding-top: 75px;
     padding-left: 240px;
     padding-right: 240px;
 }
